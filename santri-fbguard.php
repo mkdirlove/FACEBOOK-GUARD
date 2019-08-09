@@ -24,15 +24,13 @@ pilih:
     system($bersih);
     echo"
 $darkgray ====|_|=========================================
-$lightgreen |/  |_|   WELCOME TO SANTRI GUARD         _    |
-$lightgreen /   |_|   SANTRI KALIWUNGU               |_|   |
+$lightgreen |/  |_|   WELCOME TO FACEBOOK GUARD       _    |
+$lightgreen /   |_|   mkdirlove                      |_|   |
 $darkgray ================================================
-$blue |  Author    :$yellow santri cyber <Azkury>           |
-$blue |  github    :$green https://github.com/SantriCyber  |  
-$blue |  instagram :$green santri.cyberteam                |
-$blue |_  website  :$lightred https://santricoder.blogspot.com|
-$blue | | Version  : 0.1                             |
-$darkgray |°| Date     : $date            |
+$blue |  Author    :$yellow MAYO_CYBERSEC <mkdirlove>      |
+$blue |  github    :$green https://github.com/mkdirlove    |  
+$blue | | Version  : 0.1                                   |
+$darkgray |°| Date     : $date                             |
 $darkgray ================================================
 $darkgray     /////|___________________________/////|
 $darkgray   /////|__________________________/////|
